@@ -1,6 +1,7 @@
 *.txt
 *.sln
 *.vs
+*.pyproj
 
 # Editors
 .vscode/
